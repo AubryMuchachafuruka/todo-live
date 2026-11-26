@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+.env
+*.sqlite
+*.db
+.vite/
+.DS_Store
+voucher system/server/data/*.json
+!voucher system/server/data/seed.json
